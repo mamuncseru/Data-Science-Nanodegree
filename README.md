@@ -1,4 +1,4 @@
-# Udacity Data Scientist Nanodegree, Chengjun Liu
+# Udacity Data Scientist Nanodegree
 
 This is the README MarkDown File for Udacity Data Scientist Nanodegree. I estimate there are a total of 4 projects in this Nanodegree.
 
