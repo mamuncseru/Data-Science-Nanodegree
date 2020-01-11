@@ -21,10 +21,12 @@ Boston Airbnb data of listings are collected and investigated. We ensure the exp
 1.Jupyter Notebook solving the three problems.
 
 2.Detailed Listings data for Boston Airbnb.
+
 (Dataset Link)https://www.kaggle.com/airbnb/boston
 
 3.README Markdown File
 
 An easy-to-read blog post is published on Medium, which is the main goal of the project.
+
 (Medium Link)
 
