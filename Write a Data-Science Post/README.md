@@ -14,7 +14,7 @@ Boston Airbnb data of listings are collected and investigated. We ensure the exp
 
 2. What are the most popular amenities?  
 
-3. What are the top amenities that influence the price? 
+3. What are the top features that influence the price? 
 
 ## File Description
 
