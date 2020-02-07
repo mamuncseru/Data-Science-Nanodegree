@@ -7,6 +7,7 @@ This is the README MarkDown File for Udacity Data Scientist Nanodegree. I estima
 
 All necessary projects and corresponding files of .ipynb, .html, etc. are included in this Repository.
 
+## Important files and Notes
+
+The Data Science Nanodegree is split into 4 projects:
 1. Write a Data Science Post --- Boston Airbnb Housing Price vs. Features
-
-
