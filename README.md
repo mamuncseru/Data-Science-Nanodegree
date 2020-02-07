@@ -1,6 +1,6 @@
 # Udacity Data Scientist Nanodegree
 
-# Description
+## Description
 This is the README MarkDown File for Udacity Data Scientist Nanodegree. I estimate there are a total of 4 projects in this Nanodegree.
 
 <https://www.udacity.com/course/data-scientist-nanodegree--nd025>
