@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ### Introduction:
-This project intends to realized two important parts: analyze disaster message categories and web app visualization
+This project intends to realized two important parts: analyze disaster message categories and web app visualization.
 
 ### Content
 app: The folder containing javascript modules and app.py implementing Flask & Plotly to create web app.   
