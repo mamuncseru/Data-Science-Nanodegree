@@ -1,13 +1,14 @@
 import sys
-import numpy as np
+#basic library
 import pandas as pd
+#SQL library
 from sqlalchemy import create_engine
 
 def load_data(messages_filepath, categories_filepath):
    """
    Load csv files of disaster categories and messages specified by python 
    command  `python data/process_data.py data/disaster_messages.csv 
-   data/disaster_categories.csv data/DisasterResponse.db`, by the frist two
+   data/disaster_categories.csv data/DisasterResponse.db`, by the first two
    arguments.
     
    Input: messages_filepath: path of messages('disaster_messages.csv')

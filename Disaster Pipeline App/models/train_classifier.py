@@ -1,14 +1,14 @@
 import sys
 # basic libraries
 import pandas as pd
+#SQL library
+from sqlalchemy import create_engine
 # NLP
 import re
 import nltk
-from sqlalchemy import create_engine
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem.porter import PorterStemmer
-
 nltk.download(['punkt', 'wordnet'])
 # Machine Learning
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -105,8 +105,9 @@ def evaluate_model(model, X_test, Y_test, category_names):
     """
     # print metrics of classification for each column
     Y_pred = pd.DataFrame(model.predict(X_test), columns=category_names)
+    print("Classification Accuracy")
     for i in range(36):
-        print(category_names[i])
+        print("Category Name: ",category_names[i])
         print(classification_report(Y_test.iloc[:, i], Y_pred.iloc[:, i]))
 
 
