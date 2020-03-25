@@ -14,3 +14,5 @@ The Data Science Nanodegree is split into 4 projects:
 2. Disaster Response Pipeline
 3. Recommendation Engines
 4. Spark ML
+
+## Certificate
