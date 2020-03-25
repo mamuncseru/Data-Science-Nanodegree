@@ -16,4 +16,4 @@ The Data Science Nanodegree is split into 4 projects:
 4. Spark ML
 
 ## Certificate
-![Certificate](Certificate.png)
+![Certificate](Certificate-1.png)
